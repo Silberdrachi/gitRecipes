@@ -39,6 +39,7 @@
 * 3-4 Jalapenos sliced, for garnish
 * 1 package nori (dried seaweed), for garnish
 * Chile oil, for garnish
+* 1 tablespoon miso paste
 
 ## Preperation
 1. Add the onion, garlic, ginger, chicken broth, kimchi, soy sauce, fish sauce and sesame oil to the slow cooker. Cover and cook on low for 8 hours.
