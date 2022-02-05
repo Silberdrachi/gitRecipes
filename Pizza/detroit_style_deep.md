@@ -1,6 +1,7 @@
 # Detroit Style Pizza
 ## *Suggested Kitchenware*
-* 10" x 14" Steel Pizza Pan - [Budget](https://www.equippers.com/detroit-style-10-x-14-rectangular-steel-pizza-pan/1212325.asp) / [Best](https://lloydpans.com/pizza-tools/regional-style-pizza-pans/detroit-style-pizza-pans.html?gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8GsI2K4PIG0uzb0Jer0sksjprfX_c8ddmw59uE_j9vy0m72H4_KaTkaAmGEEALw_wcB)
+* 10" x 14" Steel Pizza Pan - [Budget](https://www.equippers.com/detroit-style-10-x-14-rectangular-steel-pizza-pan/1212325.asp) / [Best](https://lloydpans.com/pizza-tools/regional-style-pizza-pans/detroit-style-pizza-pans.html)
+* (Optional for Small) 8" x 10" Steel Pizza Pan - **Dough and Cheese measurements are reduced 60%**
 * Pizza Stone
 * Stand Mixer (Recommended, not required)
 
@@ -16,6 +17,8 @@
 
 
 ### Sauce:
+
+[comment]: # (Missing bold flavor, will try more salt and sugar)
 * 1 (28-ounce; 800g) can high-quality crushed tomatoes (San Marzano)
 * 2 tablespoons (30ml) extra-virgin olive oil
 * 5 medium cloves garlic, minced
@@ -29,6 +32,8 @@
 
 
 ### Cheese:
+
+[comment]: # (Exact cheese ratios need tuning)
 * 8 oz. Wisconsin Brick Cheese
 * 4 oz. Low Moisture Mozzarella 
 
