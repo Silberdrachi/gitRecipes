@@ -1,7 +1,7 @@
 # Detroit Style Pizza
 ## *Suggested Kitchenware*
 * 10" x 14" Steel Pizza Pan - [Budget](https://www.equippers.com/detroit-style-10-x-14-rectangular-steel-pizza-pan/1212325.asp) / [Best](https://lloydpans.com/pizza-tools/regional-style-pizza-pans/detroit-style-pizza-pans.html)
-* (Optional for Small) 8" x 10" Steel Pizza Pan - **Dough and Cheese measurements are reduced 60%**
+* (Optional for Small) 8" x 10" Steel Pizza Pan - **Dough and Cheese measurements are reduced to 60%**
 * Pizza Stone
 * Stand Mixer (Recommended, not required)
 
@@ -54,7 +54,7 @@
 ### Sauce (35 Mins):
 * Heat 2 tablespoons (30ml) olive oil in a medium saucepan over medium heat until shimmering.
 * Cook aromatics - garlic, oregano, pepper flakes - for 30s, until fragrant. 
-* Add tomatos, garlic powder, onion powder, and sugar.
+* Add tomatos, garlic powder, onion powder, and sugar. (Optional MSG)
 * Simmer for 30 minutes to reduce. Season with salt to taste. 
 
 ### Assembly: 
