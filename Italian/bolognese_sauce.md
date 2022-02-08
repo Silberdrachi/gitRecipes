@@ -1,7 +1,7 @@
 # Bolognese Sauce
 
 ## Ingredients
-* 6 med onions
+* 6 med yellow onions
 * 8 cloves of garlic
 * 1/4 cup olive oil
 * 105oz tomato sauce or crushed tomatoes
