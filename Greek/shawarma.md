@@ -1,4 +1,4 @@
-# Baked Feta Pasta
+# Shawarma
 
 ## Ingredients
 ### Lebanese spice blend (Enough to make this recipe twice)
