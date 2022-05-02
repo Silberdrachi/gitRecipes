@@ -1,4 +1,4 @@
-# Baked Ziti
+# Banana Nut Bread
 
 ## Ingredients
 * 1 cup mashed banana1
