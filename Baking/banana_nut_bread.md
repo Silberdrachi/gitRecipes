@@ -13,7 +13,7 @@
 * ½ teaspoon ground cinnamon
 * ½-2/3 cup chopped pecans or walnuts plus extra for sprinkling on top4
 
-## Instructions
+## Preperation
 1. Preheat the oven to 350F. Grease an 8x4-inch loaf pan. Set aside.
 1. In a large bowl, whisk mashed banana and melted butter together until well-combined.
 1. Whisk in sugars until incorporated.
