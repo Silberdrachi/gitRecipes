@@ -14,7 +14,7 @@
 * 2 cups mozzarella cheese
 * 1/4 cup Parmesan cheese
 
-## Instructions
+## Preperation
 1. Preheat oven to 375°F
 1. Brown ground sausage and onion breaking up until the sausage is fairly fine. Drain any fat.
 1. Add in Italian seasoning, water, tomatoes and pasta sauce. Simmer 10-15 minutes or until thickened.
