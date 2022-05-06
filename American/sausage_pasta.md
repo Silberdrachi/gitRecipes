@@ -1,4 +1,4 @@
-# Parmesan Herb Salmon
+# Sausage Pasta
 
 ## Ingredients
 * 5 slices raw bacon, diced fairly small
