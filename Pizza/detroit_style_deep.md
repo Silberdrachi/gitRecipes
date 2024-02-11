@@ -2,21 +2,21 @@
 ## *Suggested Kitchenware*
 * 10" x 14" Steel Pizza Pan - [Budget](https://www.equippers.com/detroit-style-10-x-14-rectangular-steel-pizza-pan/1212325.asp) / [Best](https://lloydpans.com/pizza-tools/regional-style-pizza-pans/detroit-style-pizza-pans.html)
 * (Optional for Small) 10" x 10" Steel Pizza Pan - [Buy](https://lloydpans.com/catalog/product/view/id/1833/s/sicilian-style-pizza-pans/category/288/) - **Dough and Cheese measurements are reduced to 60%**
-* Pizza Stone
+* Pizza Stone [Large](https://www.amazon.com/gp/product/B06XGV3RS4) / [Small](https://www.amazon.com/gp/product/B077Q6WSD9)
 * Stand Mixer (Recommended, not required)
 
 ## Ingredients
 
-### Dough:
-* 250g (1c) warm water, 90F/32C 
-* 3g (3/4t) instant yeast
-* 9g (2t) salt 
-* 365g (3c) bread flour
+### Dough (60% in brackets):
+* 250g (8oz) warm water, 90F/32C, [150g]
+* 3g (3/4t) instant yeast, [2g]
+* 9g (2t) salt, [6g]
+* 365g (24oz) bread flour, [219g]
 * Pinch of sugar
 * Olive oil
 
-### Sauce:
-* 28oz/800g can crushed tomatoes
+### Sauce (Will make enough for 2 pizza):
+* 800g (28oz) can crushed tomatoes
 * 50g (3T)  tomato paste
 * 7g (1 1/2t) salt
 * 12g (1T) sugar
@@ -26,9 +26,9 @@
 * Olive oil 
 * 10g (2 cloves) garlic, minced 
 
-### Cheese:
-* 8 oz. Muenster Cheese
-* 8 oz. Low Moisture Mozzarella 
+### Cheese (60% in brackets):
+* 225g (8oz) Muenster Cheese [135g]
+* 225g (8oz) Low Moisture Mozzarella [135g]
 
 ## Preperation
 
@@ -49,7 +49,8 @@
 * Add tomato paste, salt, sugar, dried oregano, basil, and chilli flakes into the 28oz can of crushed tomatoes. 
 * Add a large drizzle of olive oil to a nonstick pan over medium heat, then add in minced garlic and saute until just fragrant, about 30-60 sec. 
 * Stir in tomato mixture and bring to a simmer
-* Cook down for about 10 minutes or until reduced by half and thickened. 
+* Cook down for about 10 minutes or until reduced by half and thickened.
+* Extra can be put in a jar and stored in the fridge, just bring to room temperature at least before putting on the pizza.
 
 ### Assembly: 
 * Add 1-2 tablespoons olive oil to steel pizza pan, spread to cover the bottom. Add dough and roll it to coat with oil. 
@@ -58,4 +59,5 @@
 * Cover dough completely with sauce, leaving only a small gap between the edge of the pan. (1 generous ladle)
 * Evenly distribute cheese, there will be gaps. Be sure to put it all the way to the edge, touching the pan. This is what creates the crust.
 * Place pan directly on pizza stone. Maximum contact for heat transfer will result in a cripsy bottom. 
-* Cook for 12-14 minutes @ 500 f°, until the cheese crust is dark brown and caramelized. 
+* Cook for 12-14 minutes @ 500 f°, until the cheese crust is dark brown and caramelized.
+  * When cooking in a toaster oven, preheat the oven (especially if using a stone), and then cook on bagel mode (or mode to have only the bottom element on) for 14 minutes or until the cheese crust is dark brown and caramelized.
