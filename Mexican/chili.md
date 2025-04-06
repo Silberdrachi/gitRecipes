@@ -4,7 +4,7 @@
 * 2 large yellow onions, diced
 * 8 med jalapeno, diced
 * 5 garlic cloves, finely minced
-* 2 pounds ground chuck or venison
+* 3 pounds ground chuck or venison
 * 1 tablespoon table salt
 * 3 tablespoons ancho chili powder
 * 2 tablespoons ground cumin
