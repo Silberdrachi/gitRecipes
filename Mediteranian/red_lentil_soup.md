@@ -1,6 +1,6 @@
 # Red Lentil Soup
 ## Ingredients
-* Extra virgin olive oil (I used Early Harvest)
+* Extra virgin olive oil
 * 1 large onion, chopped
 * 3 garlic cloves, minced
 * 2 carrots, chopped
